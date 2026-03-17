@@ -1,8 +1,8 @@
 {
   "name": "bane-of-monochrome",
-  "displayName": "bane-of-monochrome",
+  "displayName": "Bane of Monochrome",
   "description": "This theme aims to help you become familiar with navigating through black and white code snippets in written tests.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "bigphu",
   "repository": {
     "type": "git",

@@ -4,4 +4,8 @@ All notable changes to the "bane-of-monochrome" extension will be documented in 
 
 ## [Unreleased]
 
-- Initial release
+## [0.0.2] - 2026-03-18
+
+## Changed 
+
+- displayName in package.json is now: "Bane of Monochrome"
