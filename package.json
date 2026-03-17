@@ -1,0 +1,21 @@
+{
+  "name": "bane-of-monochrome",
+  "displayName": "bane-of-monochrome",
+  "description": "This theme aims to help you become familiar with navigating through black and white code snippets in written tests.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.110.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Bane of Monochrome",
+        "uiTheme": "vs",
+        "path": "./themes/Bane of Monochrome-color-theme.json"
+      }
+    ]
+  }
+}
